@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "destination": "Goa",
+    "budget": "₹10,000 - ₹20,000",
+    "interests": ["Beaches", "Adventure", "Nightlife"],
+    "travelWith": ["Friends", "Couple", "Family"],
+    "hotelType": {
+      "Budget": ["Goa Residency", "Sea View Inn"],
+      "Standard": ["Bay View Resort", "Ocean Pearl"],
+      "Luxury": ["Taj Exotica", "The Leela Goa"]
+    },
+    "places": ["Baga Beach", "Calangute Beach", "Fort Aguada"],
+    "activities": ["Scuba Diving", "Parasailing", "Sunset Cruise"],
+    "restaurants": ["Britto's", "Martin's Corner", "Fisherman's Wharf"]
+  },
+  {
+    "id": 2,
+    "destination": "Manali",
+    "budget": "₹20,000 - ₹50,000",
+    "interests": ["Adventure", "Nature"],
+    "travelWith": ["Friends", "Family"],
+    "hotelType": {
+      "Budget": ["Snow View Hotel"],
+      "Standard": ["Apple Valley Resort"],
+      "Luxury": ["The Himalayan"]
+    },
+    "places": ["Solang Valley", "Rohtang Pass", "Hadimba Temple"],
+    "activities": ["Paragliding", "River Rafting", "Camping"],
+    "restaurants": ["Cafe 1947", "Johnson's Cafe", "Chopsticks"]
+  },
+  {
+    "id": 3,
+    "destination": "Jaipur",
+    "budget": "₹10,000 - ₹20,000",
+    "interests": ["History", "Shopping"],
+    "travelWith": ["Family", "Couple"],
+    "hotelType": {
+      "Budget": ["Hotel Pearl"],
+      "Standard": ["Golden Tulip"],
+      "Luxury": ["Rambagh Palace"]
+    },
+    "places": ["Amer Fort", "Hawa Mahal", "City Palace"],
+    "activities": ["Camel Ride", "Light Show", "Shopping"],
+    "restaurants": ["Chokhi Dhani", "Laxmi Mishthan", "Bar Palladio"]
+  },
+  {
+    "id": 4,
+    "destination": "Kerala",
+    "budget": "₹20,000 - ₹50,000",
+    "interests": ["Nature", "Food"],
+    "travelWith": ["Family", "Couple"],
+    "hotelType": {
+      "Budget": ["Green Leaf"],
+      "Standard": ["Backwater Resort"],
+      "Luxury": ["Kumarakom Lake Resort"]
+    },
+    "places": ["Munnar", "Alleppey", "Thekkady"],
+    "activities": ["Houseboat Ride", "Tea Garden Visit", "Wildlife Safari"],
+    "restaurants": ["Grand Pavilion", "Paragon", "Dhe Puttu"]
+  },
+  {
+    "id": 5,
+    "destination": "Rishikesh",
+    "budget": "₹10,000 - ₹20,000",
+    "interests": ["Adventure", "Nature"],
+    "travelWith": ["Solo", "Friends"],
+    "hotelType": {
+      "Budget": ["Ganga Stay"],
+      "Standard": ["River Retreat"],
+      "Luxury": ["Aloha on the Ganges"]
+    },
+    "places": ["Laxman Jhula", "Ram Jhula", "Triveni Ghat"],
+    "activities": ["River Rafting", "Bungee Jumping", "Ganga Aarti"],
+    "restaurants": ["Little Buddha Cafe", "Bistro Nirvana", "Freedom Cafe"]
+  }
+]

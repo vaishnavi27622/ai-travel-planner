@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html{
+    scroll-behavior:smooth;
+}
+
+body{
+    font-family: "Poppins", sans-serif;
+    background:#07131f;
+    color:white;
+    overflow-x:hidden;
+}
+
+.glass{
+    background: rgba(255,255,255,.08);
+    backdrop-filter: blur(18px);
+    -webkit-backdrop-filter: blur(18px);
+    border:1px solid rgba(255,255,255,.15);
+}
+
+.gradient-text{
+    background:linear-gradient(90deg,#38bdf8,#ffffff);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:transparent;
+}
+
+.hero-bg{
+    background-image:
+    linear-gradient(rgba(0,0,0,.45),rgba(0,0,0,.65)),
+    url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1920");
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+}

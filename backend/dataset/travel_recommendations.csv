@@ -1,0 +1,32 @@
+Destination,State,Attraction,Activity,Restaurant,Hotel,Hotel Type,Price Per Night,Budget Range,Interest,Travel With,Transport
+Munnar,Kerala,Tea Gardens,Tea Plantation Visit,Saravana Bhavan,Green Valley,Budget,2000,10000-20000,Nature,Family,Car
+Munnar,Kerala,Eravikulam National Park,Wildlife Safari,Rasa Gurukulam,Misty Hills,Standard,4000,20000-50000,Nature,Couple,Flight
+Munnar,Kerala,Mattupetty Dam,Boating,Hill Spice,Mountain View,Luxury,8000,50000+,Adventure,Friends,Car
+Munnar,Kerala,Echo Point,Trekking,Tea House,Valley View,Standard,4500,20000-50000,Adventure,Friends,Car
+Munnar,Kerala,Top Station,Sightseeing,Mountain Cafe,Cloud Resort,Budget,2500,10000-20000,Nature,Couple,Bus
+Goa,Goa,Baga Beach,Parasailing,Brittos,Sea View Inn,Budget,2500,10000-20000,Adventure,Friends,Flight
+Goa,Goa,Fort Aguada,Sightseeing,Fishermans Wharf,Ocean Pearl,Standard,5000,20000-50000,History,Family,Train
+Goa,Goa,Calangute Beach,Water Sports,Martins Corner,Taj Resort,Luxury,9000,50000+,Adventure,Couple,Flight
+Jaipur,Rajasthan,Amer Fort,Camel Ride,Chokhi Dhani,Hotel Pearl,Budget,2000,10000-20000,History,Family,Train
+Jaipur,Rajasthan,Hawa Mahal,Sightseeing,Laxmi Mishthan,Golden Tulip,Standard,4500,20000-50000,History,Couple,Car
+Munnar,Kerala,Kundala Lake,Boating,Tea House,Kundala Resort,Standard,4500,20000-50000,Nature,Family,Car
+Munnar,Kerala,Anamudi Peak,Trekking,Hill View Cafe,Mountain Resort,Luxury,7500,50000+,Adventure,Friends,Car
+Munnar,Kerala,Attukad Waterfalls,Photography,Green Leaf Cafe,Green Valley,Budget,2200,10000-20000,Nature,Couple,Car
+Munnar,Kerala,Chithirapuram,Local Sightseeing,Local Kitchen,Misty Hills,Standard,4000,20000-50000,History,Family,Bus
+Munnar,Kerala,Punarjani Traditional Village,Cultural Experience,Punarjani Restaurant,Valley View,Budget,2500,10000-20000,History,Couple,Car
+Munnar,Kerala,Lockhart Gap,Mountain View,Mountain Cafe,Cloud Resort,Standard,4500,20000-50000,Nature,Friends,Car
+Munnar,Kerala,Photo Point,Photography,Spice Garden,Green Valley,Budget,2000,10000-20000,Nature,Family,Car
+Munnar,Kerala,Blossom Park,Park Visit,Park Cafe,Misty Hills,Standard,4000,20000-50000,Nature,Family,Bus
+
+Goa,Goa,Dudhsagar Falls,Waterfall Trekking,Goan Spice,Tropical Resort,Standard,4500,20000-50000,Nature,Friends,Car
+Goa,Goa,Palolem Beach,Kayaking,Beach Shack,Palolem Resort,Budget,2500,10000-20000,Beaches,Couple,Car
+Goa,Goa,Anjuna Beach,Beach Party,Anjuna Cafe,Sea View Inn,Budget,2500,10000-20000,Nightlife,Friends,Flight
+Goa,Goa,Chapora Fort,Sightseeing,Sunset Cafe,Ocean Pearl,Standard,5000,20000-50000,History,Couple,Car
+Goa,Goa,Grand Island,Scuba Diving,Island Restaurant,Taj Resort,Luxury,9000,50000+,Adventure,Friends,Boat
+Goa,Goa,Panaji,City Tour,Goan Kitchen,City Hotel,Standard,4000,20000-50000,History,Family,Bus
+
+Jaipur,Rajasthan,Jal Mahal,Sightseeing,Rajasthani Kitchen,Hotel Pearl,Budget,2000,10000-20000,History,Family,Car
+Jaipur,Rajasthan,Nahargarh Fort,Sunset View,Fort Restaurant,Golden Tulip,Standard,4500,20000-50000,History,Couple,Car
+Jaipur,Rajasthan,Jaigarh Fort,Heritage Tour,Chokhi Dhani,Rambagh Palace,Luxury,8000,50000+,History,Family,Car
+Jaipur,Rajasthan,Johari Bazaar,Shopping,Laxmi Mishthan,Hotel Pearl,Budget,2000,10000-20000,Shopping,Friends,Bus
+Jaipur,Rajasthan,City Palace,Heritage Tour,Bar Palladio,Golden Tulip,Standard,4500,20000-50000,History,Couple,Car
